@@ -1,0 +1,7 @@
+Medication	Cost (RM per dose)
+Paracetamol	13.00
+Chlorpheniramine	20.00 
+Cetirizine	15.00 
+Diphenhydramine	10.00 
+Loratadine	11.00 
+Diclofenac	19.00

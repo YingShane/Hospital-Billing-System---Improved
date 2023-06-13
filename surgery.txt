@@ -1,0 +1,7 @@
+Surgery	Cost (RM)
+Spine Surgery	55000.00
+Hip Replacement Surgery	50000.00
+Coronary Bypass Surgery	30000.00
+Angioplasty Surgery	20000.00
+Knee Replacement Surgery	35000.00
+Kidney Stone Removal Surgery	15000.00

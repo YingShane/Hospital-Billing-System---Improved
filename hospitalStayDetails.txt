@@ -1,0 +1,7 @@
+Room Types	Cost(RM per day)
+Deluxe Suite	700.00
+Single Deluxe	338.00
+Single Standard	268.00
+Two Bedded	150.00
+Four Bedded	95.00
+ICU	400.00

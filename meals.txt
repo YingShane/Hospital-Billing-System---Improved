@@ -1,0 +1,4 @@
+Meals	Cost(RM)
+Set A	5.00
+Set B	4.00
+Set C	4.50

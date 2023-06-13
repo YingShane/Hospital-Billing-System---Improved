@@ -1,0 +1,7 @@
+Service	Cost (RM)
+X-Ray	80.00 
+Blood Test	100.00 
+MRI Scans	1200.00
+CT Scans	1000.00
+Physiotherapy	170.00 
+Vaccinations	70.00
